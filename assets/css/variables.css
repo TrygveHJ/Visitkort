@@ -1,0 +1,9 @@
+:root{
+    --base-color: #2b2d42;
+    --accent-color: #d90429;
+    --light-color: #adb7c9;
+
+    --base-font: Arial, Helvetica, sans-serif;
+    --accent-font: 'Stint Ultra Condensed', cursive;
+    /* 'Roboto Condensed', sans-serif; */
+}
