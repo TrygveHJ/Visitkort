@@ -1,3 +1,3 @@
 # Visitkort
 
-Visitkort, portfolio og CV i HTML
+Visitkort, portfolio og CV i HTML og CSS
